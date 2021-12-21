@@ -1,1 +1,1 @@
-# boot
+# Responsive web site by Bootstrap
